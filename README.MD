@@ -1,5 +1,12 @@
 # the Albert Model for question answering fine tuning squad 2.0
 
+
+
+## links:
+  - [Squad 2.0] (https://rajpurkar.github.io/SQuAD-explorer/)
+  - [Albert] (https://ai.googleblog.com/2019/12/albert-lite-bert-for-self-supervised.html)
+
+
 ## How I Run This Project Locally ?
 
 - clone this repository
